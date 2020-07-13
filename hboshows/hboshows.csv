@@ -1,0 +1,283 @@
+genres,imdb_score,rated,resp_stat,resp_url,rg_score,seasons,title,year_end,year_start
+documentary,7.8,All (TV-G),200,https://reelgood.com/show/search-for-second-earth-2018,26,1,Search for Second Earth,2018,2018
+documentary,5.8,14+ (TV-14),200,https://reelgood.com/show/axios-2018,44,3,Axios,Present,2018
+"drama,crime,action-and-adventure",8.1,18+ (TV-MA),200,https://reelgood.com/show/profugos-2011,53,2,Fugitives,2013,2011
+"action-and-adventure,fantasy,science-fiction,animation,children,family",7.1,7+ (TV-PG),200,https://reelgood.com/show/ben-10-alien-force-2008,65,3,Ben 10: Alien Force,2010,2008
+"drama,fantasy,mystery,thriller,science-fiction",8.4,18+ (TV-MA),200,https://reelgood.com/show/carnivale-2003,72,2,Carnivàle,2005,2003
+"drama,biography,history,reality",8.5,14+ (TV-14),200,https://reelgood.com/show/john-adams-2008,80,1,John Adams,2008,2008
+"drama,lgbtq,science-fiction,fantasy",8.4,18+ (TV-MA),200,https://reelgood.com/show/years-and-years-2019,80,1,Years and Years,2019,2019
+"comedy,drama,sport",8.2,18+ (TV-MA),200,https://reelgood.com/show/eastbound-down-2009,80,4,Eastbound & Down,2013,2009
+"documentary,crime",8.7,14+ (TV-14),200,https://reelgood.com/show/the-jinx-the-life-and-deaths-of-robert-durst-2015,80,1,The Jinx: The Life and Deaths of Robert Durst,2015,2015
+"comedy,musical",8.5,14+ (TV-14),200,https://reelgood.com/show/flight-of-the-conchords-2007,80,2,Flight of the Conchords,2009,2007
+"drama,action-and-adventure,family,fantasy,science-fiction",7.9,14+ (TV-14),200,https://reelgood.com/show/his-dark-materials-2019,80,1,His Dark Materials,Present,2019
+"comedy,drama",8.4,14+ (TV-14),200,https://reelgood.com/show/entourage-2004,81,8,Entourage,2011,2004
+"action-and-adventure,anime,animation,comedy,fantasy,drama,documentary,family,crime",8.9,14+ (TV-14),200,https://reelgood.com/show/hunter-x-hunter-2011,81,6,Hunter x Hunter,2014,2011
+"animation,anime,comedy,drama,food",8.2,18+ (TV-MA),200,https://reelgood.com/show/food-wars-shokugeki-no-soma-2015,81,5,Food Wars! Shokugeki no Soma,Present,2015
+drama,8.6,14+ (TV-14),200,https://reelgood.com/show/the-newsroom-2012,81,3,The Newsroom,2014,2012
+"mystery,drama,crime,fantasy,thriller",7.9,18+ (TV-MA),200,https://reelgood.com/show/the-outsider-2020,82,1,The Outsider,2020,2020
+"drama,crime,mystery,thriller",8.7,18+ (TV-MA),200,https://reelgood.com/show/oz-1997,82,6,Oz,2003,1997
+"drama,fantasy,thriller,horror,mystery,science-fiction",7.8,18+ (TV-MA),200,https://reelgood.com/show/true-blood-2008,82,7,True Blood,2014,2008
+"crime,drama,mystery,thriller",8.2,18+ (TV-MA),200,https://reelgood.com/show/sharp-objects-2018,82,1,Sharp Objects,2018,2018
+comedy,8.3,18+ (TV-MA),200,https://reelgood.com/show/veep-2012,83,7,Veep,2019,2012
+"comedy,drama",8.5,14+ (TV-14),200,https://reelgood.com/show/the-office-2001,83,3,The Office,2003,2001
+"action-and-adventure,drama,science-fiction,family,mystery,fantasy",8.6,7+ (TV-PG),200,https://reelgood.com/show/doctor-who-2005,83,12,Doctor Who,Present,2005
+drama,8.5,18+ (TV-MA),200,https://reelgood.com/show/succession-2018,83,2,Succession,Present,2018
+"drama,history,action-and-adventure",8.3,18+ (TV-MA),200,https://reelgood.com/show/the-pacific-2010,83,1,The Pacific,2010,2010
+"comedy,action-and-adventure,crime,drama",8.3,18+ (TV-MA),200,https://reelgood.com/show/barry-2018,83,2,Barry,Present,2018
+,8.3,18+ (TV-MA),200,https://reelgood.com/show/euphoria-2019,83,1,Euphoria,Present,2019
+"animation,anime,crime,fantasy,drama,mystery,thriller",9,14+ (TV-14),200,https://reelgood.com/show/death-note-2006,83,1,Death Note,2007,2006
+"drama,crime,history",8.6,18+ (TV-MA),200,https://reelgood.com/show/deadwood-2004,84,3,Deadwood,2006,2004
+"action-and-adventure,comedy,drama,fantasy,science-fiction,mystery",8,18+ (TV-MA),200,https://reelgood.com/show/doom-patrol-2019,84,2,Doom Patrol,Present,2019
+"crime,drama,action-and-adventure,mystery,science-fiction,fantasy",8.1,18+ (TV-MA),200,https://reelgood.com/show/watchmen,84,1,Watchmen,2019,2019
+"drama,fantasy,mystery,science-fiction",8.3,18+ (TV-MA),200,https://reelgood.com/show/the-leftovers-2014,84,3,The Leftovers,2017,2014
+"drama,mystery,thriller,romance",7.4,14+ (TV-14),200,https://reelgood.com/show/pretty-little-liars-2010,85,7,Pretty Little Liars,2017,2010
+"drama,comedy",8.7,18+ (TV-MA),200,https://reelgood.com/show/six-feet-under-2001,85,5,Six Feet Under,2005,2001
+"drama,crime,mystery",8.5,18+ (TV-MA),200,https://reelgood.com/show/the-night-of-2016,85,1,The Night Of,2016,2016
+"crime,drama,history",8.5,18+ (TV-MA),200,https://reelgood.com/show/boardwalk-empire-2010,86,5,Boardwalk Empire,2014,2010
+comedy,8.7,18+ (TV-MA),200,https://reelgood.com/show/curb-your-enthusiasm-2000,86,10,Curb Your Enthusiasm,Present,2000
+,8.8,All (TV-G),200,https://reelgood.com/show/pride-and-prejudice-1995,86,1,Pride and Prejudice,1995,1995
+"action-and-adventure,drama,history,romance",8.7,18+ (TV-MA),200,https://reelgood.com/show/rome-2005,86,2,Rome,2007,2005
+"crime,drama,mystery,thriller,comedy",8.5,14+ (TV-14),200,https://reelgood.com/show/luther-2010,86,5,Luther,Present,2010
+"crime,drama,mystery,comedy",8.5,18+ (TV-MA),200,https://reelgood.com/show/big-little-lies-2017,86,2,Big Little Lies,2019,2017
+"comedy,drama",8.5,18+ (TV-MA),200,https://reelgood.com/show/silicon-valley-2014,87,6,Silicon Valley,2019,2014
+"action-and-adventure,fantasy,animation,children,comedy,family",8.6,7+ (TV-PG),200,https://reelgood.com/show/adventure-time-2010,87,11,Adventure Time,2018,2010
+comedy,8.9,18+ (TV-MA),200,https://reelgood.com/show/last-week-tonight-with-john-oliver-2014,87,7,Last Week Tonight with John Oliver,Present,2014
+"comedy,romance",8.1,14+ (TV-14),200,https://reelgood.com/show/the-big-bang-theory-2007,89,12,The Big Bang Theory,2019,2007
+,8.7,18+ (TV-MA),200,https://reelgood.com/show/south-park-1997,90,23,South Park,Present,1997
+"crime,drama,mystery,thriller",9,18+ (TV-MA),200,https://reelgood.com/show/true-detective-2014,90,3,True Detective,Present,2014
+"action-and-adventure,anime,animation,drama,fantasy,comedy,science-fiction,mystery",9.1,18+ (TV-MA),200,https://reelgood.com/show/fullmetal-alchemist-brotherhood-2009,90,1,Fullmetal Alchemist: Brotherhood,2010,2009
+"drama,science-fiction,mystery,action-and-adventure",8.7,18+ (TV-MA),200,https://reelgood.com/show/westworld-2016,91,3,Westworld,Present,2016
+"crime,drama",9.2,18+ (TV-MA),200,https://reelgood.com/show/the-sopranos-1999,91,6,The Sopranos,2007,1999
+"action-and-adventure,drama,history",9.4,18+ (TV-MA),200,https://reelgood.com/show/band-of-brothers-2001,92,1,Band of Brothers,2001,2001
+"crime,drama,thriller,mystery",9.3,18+ (TV-MA),200,https://reelgood.com/show/the-wire-2002,92,5,The Wire,2008,2002
+"comedy,romance,drama",8.9,14+ (TV-14),200,https://reelgood.com/show/friends-1994,93,10,Friends,2004,1994
+"drama,history,thriller",9.4,18+ (TV-MA),200,https://reelgood.com/show/chernobyl-2019,94,1,Chernobyl,2019,2019
+"animation,comedy,science-fiction,action-and-adventure,fantasy",9.2,18+ (TV-MA),200,https://reelgood.com/show/rick-and-morty-2013,97,4,Rick and Morty,Present,2013
+"action-and-adventure,drama,fantasy,romance,science-fiction",9.3,18+ (TV-MA),200,https://reelgood.com/show/game-of-thrones-2011,99,8,Game of Thrones,2019,2011
+"children,animation,action-and-adventure,comedy,family,fantasy,musical",8.1,All (TV-G),200,https://reelgood.com/show/sesame-street-1969,72,51,Sesame Street,Present,1969
+,8.4,7+ (TV-PG),200,https://reelgood.com/show/the-young-pope-2016,72,1,The Young Pope,2016,2016
+"documentary,crime,history",7.2,14+ (TV-14),200,https://reelgood.com/show/mcmillion-2020,72,1,McMillion$,2020,2020
+"animation,action-and-adventure,comedy,drama,family,fantasy,mystery,science-fiction",8.4,7+ (TV-PG),200,https://reelgood.com/show/infinity-train-2019,72,2,Infinity Train,Present,2019
+"crime,drama,mystery",7.6,14+ (TV-14),200,https://reelgood.com/show/the-closer-2005,73,7,The Closer,2012,2005
+"comedy,drama",8,18+ (TV-MA),200,https://reelgood.com/show/high-maintenance-2016,73,4,High Maintenance,Present,2016
+"animation,anime,drama,romance,comedy",8.6,7+ (TV-PG),200,https://reelgood.com/show/your-lie-in-april-2014,73,1,Your Lie in April,2015,2014
+,8.3,18+ (TV-MA),200,https://reelgood.com/show/in-treatment-2008,73,3,In Treatment,2010,2008
+comedy,8.3,18+ (TV-MA),200,https://reelgood.com/show/mr-show-with-bob-and-david-1995,73,4,Mr. Show with Bob and David,1998,1995
+"comedy,action-and-adventure,animation",8.4,7+ (TV-PG),200,https://reelgood.com/show/regular-show-2010,73,8,Regular Show,2017,2010
+"comedy,animation,children,action-and-adventure,family,fantasy,science-fiction",8.2,7+ (TV-PG),200,https://reelgood.com/show/the-amazing-world-of-gumball-2011,73,8,The Amazing World of Gumball,2017,2011
+"drama,fantasy,science-fiction,history",7.3,18+ (TV-MA),200,https://reelgood.com/show/the-plot-against-america-2020,73,1,The Plot Against America,2020,2020
+"comedy,animation,science-fiction",7.7,18+ (TV-MA),200,https://reelgood.com/show/robot-chicken-2005,73,11,Robot Chicken,Present,2005
+"drama,crime,history",8.1,18+ (TV-MA),200,https://reelgood.com/show/show-me-a-hero-2015,73,1,Show Me a Hero,2015,2015
+"animation,anime,drama,fantasy,mystery,science-fiction,thriller",8.5,14+ (TV-14),200,https://reelgood.com/show/erased-2016,74,1,ERASED,2016,2016
+"game-show,lgbtq,reality",7.1,14+ (TV-14),200,https://reelgood.com/show/legendary-2020,74,1,Legendary,Present,2020
+"comedy,crime,mystery",7.9,18+ (TV-MA),200,https://reelgood.com/show/bored-to-death-2009,74,3,Bored to Death,2011,2009
+,7.7,18+ (TV-MA),200,https://reelgood.com/show/mildred-pierce-2011,74,1,Mildred Pierce,2011,2011
+"action-and-adventure,animation,children,drama,fantasy,science-fiction,thriller,mystery",8.5,14+ (TV-14),200,https://reelgood.com/show/samurai-jack-2001,74,5,Samurai Jack,2017,2001
+"animation,comedy,children",8.7,All (TV-G),200,https://reelgood.com/show/tom-and-jerry-1940,74,6,Tom and Jerry,1967,1940
+"action-and-adventure,lgbtq,fantasy,animation,children,comedy",8.2,7+ (TV-PG),200,https://reelgood.com/show/steven-universe-2013,74,7,Steven Universe,2018,2013
+"comedy,drama",7.3,18+ (TV-MA),200,https://reelgood.com/show/girls-2012,75,6,Girls,2017,2012
+comedy,8.1,18+ (TV-MA),200,https://reelgood.com/show/the-righteous-gemstones-2019,75,1,The Righteous Gemstones,Present,2019
+"drama,musical",8.2,18+ (TV-MA),200,https://reelgood.com/show/treme-2010,75,4,Treme,2013,2010
+comedy,8,18+ (TV-MA),200,https://reelgood.com/show/vice-principals-2016,75,2,Vice Principals,2017,2016
+"comedy,crime,drama,mystery,romance,thriller",7.6,18+ (TV-MA),200,https://reelgood.com/show/search-party-2016,75,3,Search Party,Present,2016
+"crime,drama,mystery",7.1,18+ (TV-MA),200,https://reelgood.com/show/perry-mason-2020,76,1,Perry Mason,Present,2020
+"drama,lgbtq,biography,history,romance",8.2,18+ (TV-MA),200,https://reelgood.com/show/gentleman-jack-2019,76,1,Gentleman Jack,Present,2019
+"comedy,drama,sport",7.6,18+ (TV-MA),200,https://reelgood.com/show/ballers-2015,76,5,Ballers,2019,2015
+"comedy,romance,drama",8.1,14+ (TV-14),200,https://reelgood.com/show/gavin-stacey-2007,76,4,Gavin & Stacey,2019,2007
+"comedy,lgbtq,drama,romance",8.2,18+ (TV-MA),200,https://reelgood.com/show/looking-2014,76,2,Looking,2015,2014
+"drama,comedy,romance",8.1,7+ (TV-PG),200,https://reelgood.com/show/emma-2009,76,1,Emma,2009,2009
+"comedy,drama,romance",7.1,18+ (TV-MA),200,https://reelgood.com/show/sex-and-the-city-1998,76,6,Sex and the City,2004,1998
+"drama,lgbtq,fantasy,romance",8.2,18+ (TV-MA),200,https://reelgood.com/show/angels-in-america-2003,76,1,Angels in America,2003,2003
+"drama,comedy,romance",7.5,14+ (TV-14),200,https://reelgood.com/show/the-oc-2003,77,4,The O.C.,2007,2003
+drama,8.2,18+ (TV-MA),200,https://reelgood.com/show/i-know-this-much-is-true-2020,77,1,I Know This Much Is True,2020,2020
+"comedy,family,game-show",8.5,7+ (TV-PG),200,https://reelgood.com/show/whose-line-is-it-anyway-1998,77,16,Whose Line Is It Anyway?,2020,1998
+"documentary,comedy,reality,travel",8.7,7+ (TV-PG),200,https://reelgood.com/show/top-gear-2002,78,28,Top Gear,Present,2002
+"action-and-adventure,animation,drama,fantasy,horror",8.7,14+ (TV-14),200,https://reelgood.com/show/primal-2019,78,1,Primal,Present,2019
+drama,8.1,18+ (TV-MA),200,https://reelgood.com/show/the-deuce-2017,78,3,The Deuce,2019,2017
+"drama,mystery,crime,thriller",7.7,18+ (TV-MA),200,https://reelgood.com/show/the-alienist-2017,78,1,The Alienist,Present,2018
+"action-and-adventure,animation,children,thriller,family,mystery,fantasy,science-fiction,comedy",7.8,7+ (TV-PG),200,https://reelgood.com/show/teen-titans-2003,78,5,Teen Titans,2006,2003
+"animation,comedy,action-and-adventure,drama",8.4,18+ (TV-MA),200,https://reelgood.com/show/the-boondocks-2005,79,4,The Boondocks,2014,2005
+"action & adventure,drama",8.5,18+ (TV-MA),200,https://reelgood.com/show/generation-kill-2008,79,1,Generation Kill,2008,2008
+"comedy,romance,drama",7.9,18+ (TV-MA),200,https://reelgood.com/show/insecure-2016,79,4,Insecure,Present,2016
+"comedy,family",7.9,7+ (TV-PG),200,https://reelgood.com/show/the-fresh-prince-of-bel-air-1990,79,6,The Fresh Prince of Bel-Air,1996,1990
+"comedy,drama,horror,mystery,thriller",8.5,18+ (TV-MA),200,https://reelgood.com/show/inside-no-9-2014,79,5,Inside No. 9,Present,2014
+drama,8.6,18+ (TV-MA),200,https://reelgood.com/show/my-brilliant-friend,79,2,My Brilliant Friend,Present,2018
+comedy,8.7,18+ (TV-MA),200,https://reelgood.com/show/the-thick-of-it-2005,80,4,The Thick of It,2012,2005
+comedy,8.5,18+ (TV-MA),200,https://reelgood.com/show/im-alan-partridge-1997,66,2,I'm Alan Partridge,2002,1997
+"drama,romance",7.3,18+ (TV-MA),200,https://reelgood.com/show/tell-me-you-love-me-2007,66,1,Tell Me You Love Me,2007,2007
+comedy,8.4,18+ (TV-MA),200,https://reelgood.com/show/the-larry-sanders-show-1992,66,6,The Larry Sanders Show,1998,1992
+,8.2,18+ (TV-MA),200,https://reelgood.com/show/metalocalypse-2006,66,5,Metalocalypse,2013,2006
+comedy,7.4,18+ (TV-MA),200,https://reelgood.com/show/real-time-with-bill-maher-2003,66,18,Real Time with Bill Maher,Present,2003
+,8,7+ (TV-PG),200,https://reelgood.com/show/scott-bailey-2011,66,5,Scott & Bailey,2016,2011
+"comedy,animation,history,documentary",8,14+ (TV-14),200,https://reelgood.com/show/adam-ruins-everything-2015,66,5,Adam Ruins Everything,Present,2015
+"comedy,documentary",7.5,14+ (TV-14),200,https://reelgood.com/show/lifes-too-short-2011,67,1,Life's Too Short,2011,2011
+"crime,drama,mystery",7.7,14+ (TV-14),200,https://reelgood.com/show/major-crimes-2012,67,6,Major Crimes,2018,2012
+"comedy,drama",7.9,18+ (TV-MA),200,https://reelgood.com/show/how-to-make-it-in-america-2010,67,2,How to Make It in America,2011,2010
+"animation,action-and-adventure,crime,drama,fantasy,horror,mystery,romance,science-fiction,thriller",8.1,18+ (TV-MA),200,https://reelgood.com/show/spawn-1997,67,3,Spawn,1999,1997
+"animation,children,comedy,action-and-adventure,family",7.5,All (TV-G),200,https://reelgood.com/show/the-flintstones-1960,67,6,The Flintstones,1966,1960
+comedy,7.8,18+ (TV-MA),200,https://reelgood.com/show/the-brink-2015,67,1,The Brink,2015,2015
+"action-and-adventure,animation,children,comedy",7.2,7+ (TV-PG),200,https://reelgood.com/show/the-powerpuff-girls-1998,67,7,The Powerpuff Girls,2016,1998
+"action-and-adventure,anime,animation,comedy,fantasy,science-fiction",7.8,14+ (TV-14),200,https://reelgood.com/show/konosuba-gods-blessing-on-this-wonderful-world-2016,67,2,KonoSuba – God’s blessing on this wonderful world!!,2019,2016
+"action-and-adventure,animation,children,science-fiction,family",7.5,7+ (TV-PG),200,https://reelgood.com/show/ben-10-ultimate-alien-2010,68,3,Ben 10: Ultimate Alien,2012,2010
+"animation,comedy,drama,family",8.1,7+ (TV-PG),200,https://reelgood.com/show/home-movies-1999,68,4,Home Movies,2004,1999
+"animation,action-and-adventure,comedy,family",8.3,7+ (TV-PG),200,https://reelgood.com/show/looney-tunes-cartoons-2020,68,1,Looney Tunes Cartoons,Present,2020
+drama,7.4,18+ (TV-MA),200,https://reelgood.com/show/our-boys-2019,68,1,Our Boys,Present,2019
+"action-and-adventure,anime,animation,comedy,fantasy,drama,science-fiction",7.9,18+ (TV-MA),200,https://reelgood.com/show/kill-la-kill-2013,68,2,Kill la Kill,2018,2013
+"comedy,drama",7.1,18+ (TV-MA),200,https://reelgood.com/show/hung-2009,68,3,Hung,2011,2009
+"comedy,romance,drama,musical",8,18+ (TV-MA),200,https://reelgood.com/show/the-comeback-2005,68,2,The Comeback,2014,2005
+"animation,comedy,family,action-and-adventure,fantasy",7.9,7+ (TV-PG),200,https://reelgood.com/show/we-bare-bears-2015,69,4,We Bare Bears,2019,2015
+drama,8.3,18+ (TV-MA),200,https://reelgood.com/show/olive-kitteridge-2014,69,1,Olive Kitteridge,2014,2014
+"comedy,romance,thriller,drama",6.3,18+ (TV-MA),200,https://reelgood.com/show/run-2020,69,1,RUN,Present,2020
+"drama,crime,mystery,thriller",7.9,7+ (TV-PG),200,https://reelgood.com/show/wallander-2008,69,4,Wallander,2016,2008
+"documentary,food,reality,travel,action-and-adventure",8.8,7+ (TV-PG),200,https://reelgood.com/show/anthony-bourdain-parts-unknown-2013,69,12,Anthony Bourdain: Parts Unknown,2018,2013
+"comedy,science-fiction,fantasy",6.4,18+ (TV-MA),200,https://reelgood.com/show/avenue-5-2020,69,1,Avenue 5,Present,2020
+"drama,fantasy,animation,comedy",7.6,14+ (TV-14),200,https://reelgood.com/show/aqua-teen-hunger-force-2000,69,11,Aqua Teen Hunger Force,2015,2000
+,8.2,18+ (TV-MA),200,https://reelgood.com/show/the-new-pope-2020,69,1,The New Pope,2020,2020
+"drama,romance",8.3,7+ (TV-PG),200,https://reelgood.com/show/jane-eyre-2006,69,1,Jane Eyre,2006,2006
+"comedy,drama",7.5,18+ (TV-MA),200,https://reelgood.com/show/enlightened-2011,70,2,Enlightened,2013,2011
+drama,7.6,18+ (TV-MA),200,https://reelgood.com/show/big-love-2006,70,5,Big Love,2011,2006
+,8.5,14+ (TV-14),200,https://reelgood.com/show/impractical-jokers-2011,70,15,Impractical Jokers,Present,2011
+"comedy,drama,family",7,18+ (TV-MA),200,https://reelgood.com/show/mrs-fletcher-2019,70,1,Mrs. Fletcher,2019,2019
+drama,7.8,18+ (TV-MA),200,https://reelgood.com/show/vinyl-2016,70,1,Vinyl,2016,2016
+"comedy,drama",7.5,18+ (TV-MA),200,https://reelgood.com/show/crashing-2017,71,3,Crashing,Present,2017
+"action-and-adventure,crime,drama,science-fiction,fantasy,horror,mystery,thriller",7.7,18+ (TV-MA),200,https://reelgood.com/show/torchwood-2006,71,4,Torchwood,2011,2006
+"action-and-adventure,animation,children,family,science-fiction,comedy",7.2,7+ (TV-PG),200,https://reelgood.com/show/ben-10-2005,71,4,Ben 10,2008,2005
+"reality,documentary",8,18+ (TV-MA),200,https://reelgood.com/show/were-here-2020,71,1,We're Here,Present,2020
+"comedy,drama,romance",7.5,18+ (TV-MA),200,https://reelgood.com/show/togetherness-2015,71,2,Togetherness,2016,2015
+"comedy,drama,romance",7.4,18+ (TV-MA),200,https://reelgood.com/show/love-life-2020,71,1,Love Life,Present,2020
+"comedy,animation,children,family,science-fiction,fantasy",7.9,All (TV-G),200,https://reelgood.com/show/dexters-laboratory-1995,71,5,Dexter's Laboratory,2002,1996
+"crime,documentary",6.5,18+ (TV-MA),200,https://reelgood.com/show/ill-be-gone-in-the-dark-2020,71,1,I'll Be Gone in the Dark,Present,2020
+"animation,comedy,family,action-and-adventure,drama,children",7.3,7+ (TV-PG),200,https://reelgood.com/show/craig-of-the-creek-2018,71,2,Craig of the Creek,Present,2018
+"animation,children,action-and-adventure,comedy,crime,family,mystery",7.8,All (TV-G),200,https://reelgood.com/show/scooby-doo-where-are-you-1969,72,3,"Scooby-Doo, Where Are You?",1978,1969
+"crime,thriller,mystery,drama",7.9,7+ (TV-PG),200,https://reelgood.com/show/whitechapel-2009,72,4,Whitechapel,2013,2009
+"comedy,romance",6.5,18+ (TV-MA),200,https://reelgood.com/show/sally4ever-2018,60,1,Sally4Ever,Present,2018
+"animation,anime,action-and-adventure,drama,fantasy,horror,science-fiction",7.2,18+ (TV-MA),200,https://reelgood.com/show/kabaneri-of-the-iron-fortress-2016,60,2,Kabaneri of the Iron Fortress,2019,2016
+"comedy,family",7.8,All (TV-G),200,https://reelgood.com/show/the-not-too-late-show-with-elmo-2020,60,1,The Not-Too-Late Show with Elmo,Present,2020
+"romance,anime,animation,action-and-adventure,drama,fantasy,horror,science-fiction",6.9,18+ (TV-MA),200,https://reelgood.com/show/berserk-2016,60,3,Berserk,2016,2016
+documentary,8.2,7+ (TV-PG),200,https://reelgood.com/show/the-nineties,61,1,The Nineties,2017,2017
+"animation,family,action-and-adventure,comedy,fantasy,science-fiction",7.8,7+ (TV-PG),200,https://reelgood.com/show/the-marvelous-misadventures-of-flapjack-2008,61,3,The Marvelous Misadventures of Flapjack,2010,2008
+"comedy,drama",8,18+ (TV-MA),200,https://reelgood.com/show/men-of-a-certain-age-2009,61,2,Men of a Certain Age,2011,2009
+"animation,comedy,science-fiction",7.9,14+ (TV-14),200,https://reelgood.com/show/space-ghost-coast-to-coast-1994,62,10,Space Ghost Coast to Coast,2008,1994
+comedy,7.2,18+ (TV-MA),200,https://reelgood.com/show/a-black-lady-sketch-show-2019,62,1,A Black Lady Sketch Show,Present,2019
+"animation,children,comedy,action-and-adventure,family,fantasy",7.3,7+ (TV-PG),200,https://reelgood.com/show/chowder-2007,62,4,Chowder,2010,2007
+"action-and-adventure,children,science-fiction,drama,family,fantasy",7.4,All (TV-G),200,https://reelgood.com/show/the-sarah-jane-adventures-2007,62,5,The Sarah Jane Adventures,2011,2007
+"animation,comedy,crime,family,mystery",7.1,All (TV-G),200,https://reelgood.com/show/the-sylvester-tweety-mysteries-1995,62,5,The Sylvester & Tweety Mysteries,2002,1995
+"action-and-adventure,animation,comedy,drama,family,science-fiction",7.8,7+ (TV-PG),200,https://reelgood.com/show/jonny-quest-1964,63,2,Jonny Quest,2017,1964
+"drama,action-and-adventure,romance",7.6,18+ (TV-MA),200,https://reelgood.com/show/parades-end-2012,63,1,Parade's End,2012,2012
+comedy,8,14+ (TV-14),200,https://reelgood.com/show/tacoma-fd-2019,63,2,Tacoma FD,Present,2019
+"action-and-adventure,anime,animation,mystery,comedy,crime,fantasy,thriller,drama",7.6,18+ (TV-MA),200,https://reelgood.com/show/bungo-stray-dogs-2016,63,3,Bungo Stray Dogs,2019,2016
+comedy,7.4,18+ (TV-MA),200,https://reelgood.com/show/family-tree-2013,63,1,Family Tree,2013,2013
+"drama,fantasy,horror,science-fiction,mystery",7.8,18+ (TV-MA),200,https://reelgood.com/show/the-fades-2011,64,1,The Fades,2011,2011
+"comedy,animation",7.2,14+ (TV-14),200,https://reelgood.com/show/madtv-1995,64,15,MADtv,2016,1995
+"comedy,drama,fantasy,action-and-adventure,romance,science-fiction",7.5,14+ (TV-14),200,https://reelgood.com/show/being-erica-2009,64,4,Being Erica,2011,2009
+"drama,history",6.6,18+ (TV-MA),200,https://reelgood.com/show/gunpowder-2017,64,1,Gunpowder,2017,2017
+"drama,thriller,mystery/country/united-kingdom/country/america",8.1,18+ (TV-MA),200,https://reelgood.com/show/the-honourable-woman-2014,64,1,The Honourable Woman,2014,2014
+"animation,action-and-adventure,fantasy,romance,science-fiction",6.7,18+ (TV-MA),200,https://reelgood.com/show/the-testament-of-sister-new-devil-2015,64,4,The Testament of Sister New Devil,2015,2015
+"action-and-adventure,crime,drama,mystery,science-fiction",7.6,18+ (TV-MA),200,https://reelgood.com/show/dci-banks-2010,64,5,DCI Banks,Present,2011
+"animation,action-and-adventure,comedy,family,science-fiction",5.7,7+ (TV-PG),200,https://reelgood.com/show/ben-10-omniverse-2012,64,8,Ben 10: Omniverse,2014,2012
+"animation,comedy,drama",7.2,18+ (TV-MA),200,https://reelgood.com/show/animals-2016,64,3,Animals.,2018,2016
+"action-and-adventure,animation,drama,science-fiction",7.3,7+ (TV-PG),200,https://reelgood.com/show/beware-the-batman-2013,64,1,Beware the Batman,2014,2013
+comedy,7.4,18+ (TV-MA),200,https://reelgood.com/show/hello-ladies-2013,64,1,Hello Ladies,2013,2013
+"animation,children,comedy,action-and-adventure,family,fantasy,science-fiction",7.6,7+ (TV-PG),200,https://reelgood.com/show/fosters-home-for-imaginary-friends-2004,64,6,Foster's Home for Imaginary Friends,2009,2004
+"mystery,drama,fantasy",6,14+ (TV-14),200,https://reelgood.com/show/nancy-drew-2019,64,1,Nancy Drew,Present,2019
+"drama,action-and-adventure,thriller,crime",8.8,18+ (TV-MA),200,https://reelgood.com/show/golden-life-2015,64,3,Golden Life,2018,2015
+"animation,comedy,family,action-and-adventure,children",7.2,7+ (TV-PG),200,https://reelgood.com/show/the-looney-tunes-show-2011,64,4,The Looney Tunes Show,2014,2011
+"comedy,drama",6.4,18+ (TV-MA),200,https://reelgood.com/show/betty-2020,64,1,Betty,Present,2020
+"comedy,drama",6.8,14+ (TV-14),200,https://reelgood.com/show/divorce-2016,64,3,Divorce,2019,2016
+"animation,children,comedy,family,science-fiction",7,7+ (TV-PG),200,https://reelgood.com/show/the-jetsons-1962,64,3,The Jetsons,2002,1962
+"action-and-adventure,drama,documentary,history,thriller",8.6,7+ (TV-PG),200,https://reelgood.com/show/from-the-earth-to-the-moon-1998,65,1,From the Earth to the Moon,1998,1998
+"documentary,crime",7.1,18+ (TV-MA),200,https://reelgood.com/show/atlantas-missing-and-murdered-the-lost-children-2020,65,1,Atlanta's Missing and Murdered: The Lost Children,2020,2020
+"comedy,drama,fantasy,horror,mystery,science-fiction,thriller",6.1,18+ (TV-MA),200,https://reelgood.com/show/room-104-2017,65,3,Room 104,Present,2017
+"comedy,home & garden",7.6,18+ (TV-MA),200,https://reelgood.com/show/at-home-with-amy-sedaris-2017,65,3,At Home with Amy Sedaris,Present,2017
+"comedy,horror",7.5,18+ (TV-MA),200,https://reelgood.com/show/los-espookys-2019,65,1,Los Espookys,Present,2019
+"action-and-adventure,fantasy,science-fiction,crime,drama,mystery,thriller",3.6,14+ (TV-14),200,https://reelgood.com/show/batwoman-2019,65,2,Batwoman,Present,2019
+"animation,anime,action-and-adventure,drama,fantasy,mystery,science-fiction",8.1,7+ (TV-PG),200,https://reelgood.com/show/tower-of-god-2020,65,1,Tower of God,Present,2020
+"crime,drama,thriller,mystery,action-and-adventure,comedy",8.8,18+ (TV-MA),200,https://reelgood.com/show/umbre-2014,65,3,Shadows,Present,2014
+"comedy,drama",7.8,18+ (TV-MA),200,https://reelgood.com/show/getting-on-2013,65,3,Getting On,2015,2013
+"reality,documentary",6,7+ (TV-PG),200,https://reelgood.com/show/supernanny-2004,53,7,Supernanny,2011,2004
+"animation,anime,action-and-adventure,fantasy,mystery,thriller",6.9,14+ (TV-14),200,https://reelgood.com/show/rokka-braves-of-the-six-flowers-2015,53,2,Rokka: Braves of the Six Flowers,2015,2015
+"comedy,stand-up & talk",7,18+ (TV-MA),200,https://reelgood.com/show/tracey-ullmans-show-2016,54,3,Tracey Ullman's Show,Present,2016
+"action-and-adventure,lgbtq,crime,drama,thriller",6.7,18+ (TV-MA),200,https://reelgood.com/show/the-silent-valley-2016,54,1,The Silent Valley,2016,2016
+"comedy,family,reality",7.2,All (TV-G),200,https://reelgood.com/show/little-big-shots-2016,54,4,Little Big Shots,Present,2016
+"comedy,stand-up & talk",5.5,14+ (TV-14),200,https://reelgood.com/show/2-dope-queens-2018,54,2,2 Dope Queens,Present,2018
+"action-and-adventure,crime,thriller,drama",8.3,18+ (TV-MA),200,https://reelgood.com/show/sr-avila-2013,54,4,Sr. Ávila,2018,2013
+"animation,comedy,family,children",5.9,7+ (TV-PG),200,https://reelgood.com/show/apple-onion-2018,54,3,Apple & Onion,Present,2018
+"animation,action-and-adventure,comedy,family,fantasy,science-fiction,children",7.4,7+ (TV-PG),200,https://reelgood.com/show/summer-camp-island-2018,55,2,Summer Camp Island,Present,2018
+comedy,5.7,14+ (TV-14),200,https://reelgood.com/show/full-frontal-with-samantha-bee-2016,55,11,Full Frontal with Samantha Bee,Present,2016
+documentary,8,7+ (TV-PG),200,https://reelgood.com/show/the-2000s-2018,55,1,The 2000s,2018,2018
+comedy,6.4,18+ (TV-MA),200,https://reelgood.com/show/hard-2020,55,1,Hard,Present,2020
+"documentary,history",8.3,7+ (TV-PG),200,https://reelgood.com/show/the-seventies-2015,55,1,The Seventies,2015,2015
+"animation,anime,drama,science-fiction,thriller,fantasy,comedy,romance",6.9,14+ (TV-14),200,https://reelgood.com/show/kiznaiver-2016,55,1,Kiznaiver,2016,2016
+"reality,romance",5.2,14+ (TV-14),200,https://reelgood.com/show/bachelor-in-paradise-2014,55,6,Bachelor in Paradise,Present,2014
+"mystery,crime,drama,horror,thriller",8,18+ (TV-MA),200,https://reelgood.com/show/el-jardin-de-bronce-2017,56,2,The Bronze Garden,Present,2017
+"reality,romance,game-show,drama",3.2,14+ (TV-14),200,https://reelgood.com/show/the-bachelor-2002,56,24,The Bachelor,Present,2002
+"animation,action-and-adventure,comedy,crime,family,mystery",6.4,All (TV-G),200,https://reelgood.com/show/scooby-doo-and-scrappy-doo-1979,56,6,Scooby-Doo and Scrappy-Doo,1984,1979
+"children,family,comedy",8.1,All (TV-G),200,https://reelgood.com/show/the-electric-company-1971,56,6,The Electric Company,1977,1971
+"drama,crime,mystery,thriller",6.7,18+ (TV-MA),200,https://reelgood.com/show/five-days-2007,56,2,Five Days,2010,2007
+comedy,8.2,18+ (TV-MA),200,https://reelgood.com/show/high-maintenance-2012,56,6,High Maintenance,2015,2012
+drama,8.1,18+ (TV-MA),200,https://reelgood.com/show/capadocia-2008,57,3,Capadocia,2012,2008
+"reality,romance,game-show,drama",3.4,14+ (TV-14),200,https://reelgood.com/show/the-bachelorette-2003,57,15,The Bachelorette,Present,2003
+"drama,comedy,musical,romance",6.1,14+ (TV-14),200,https://reelgood.com/show/katy-keene-2020,57,1,Katy Keene,Present,2020
+comedy,7.2,7+ (TV-PG),200,https://reelgood.com/show/almost-royal-2014,57,2,Almost Royal,2016,2014
+comedy,8.2,14+ (TV-14),200,https://reelgood.com/show/knowing-me-knowing-you-with-alan-partridge-1994,57,1,Knowing Me Knowing You with Alan Partridge,1994,1994
+"comedy,reality",7.4,14+ (TV-14),200,https://reelgood.com/show/the-carbonaro-effect-2014,57,7,The Carbonaro Effect,Present,2014
+"documentary,history",8.5,7+ (TV-PG),200,https://reelgood.com/show/the-sixties-2014,57,1,The Sixties,2014,2014
+"animation,children,family,comedy",6.6,All (TV-G),200,https://reelgood.com/show/the-yogi-bear-show-1958,57,4,The Yogi Bear Show,1972,1958
+"documentary,crime",6.6,14+ (TV-14),200,https://reelgood.com/show/the-case-against-adnan-syed-2019,57,1,The Case Against Adnan Syed,Present,2019
+"animation,children,comedy,family,mystery",7.6,7+ (TV-PG),200,https://reelgood.com/show/the-scooby-doodynomutt-hour-1976,57,3,The Scooby-Doo/Dynomutt Hour,1978,1976
+"drama,crime,comedy",8.2,7+ (TV-PG),200,https://reelgood.com/show/the-no-1-ladies-detective-agency-2009,58,1,The No. 1 Ladies' Detective Agency,2009,2009
+"action-and-adventure,animation,children,fantasy,comedy,family,science-fiction",2.5,7+ (TV-PG),200,https://reelgood.com/show/ben-10-2016,58,5,Ben 10,Present,2016
+"animation,comedy,drama,fantasy,science-fiction",8,14+ (TV-14),200,https://reelgood.com/show/close-enough-2020,58,1,Close Enough,Present,2020
+"drama,sport",7.5,18+ (TV-MA),200,https://reelgood.com/show/luck-2012,58,1,Luck,2012,2012
+"animation,anime,crime,drama,thriller,action-and-adventure",7.7,18+ (TV-MA),200,https://reelgood.com/show/91-days-2016,59,2,91 Days,2016,2016
+"comedy,drama,fantasy",6.8,14+ (TV-14),200,https://reelgood.com/show/untitled-alan-ball-drama,59,1,Here and Now,2018,2018
+"animation,children,comedy,action-and-adventure,family",6.6,7+ (TV-PG),200,https://reelgood.com/show/clarence-2014,59,5,Clarence,2017,2014
+"drama,biography,history",6.1,18+ (TV-MA),200,https://reelgood.com/show/catherine-the-great-2019,59,1,Catherine the Great,2019,2019
+"animation,comedy,family,romance,action-and-adventure",7.1,All (TV-G),200,https://reelgood.com/show/popeye-the-sailor-1960,59,20,Popeye the Sailor,1955,1960
+"documentary,comedy",6.5,18+ (TV-MA),200,https://reelgood.com/show/wyatt-cenacs-problem-areas-2018,59,2,Wyatt Cenac's Problem Areas,Present,2018
+"drama,crime,mystery,thriller",6.4,18+ (TV-MA),200,https://reelgood.com/show/mosaic-2018,59,1,Mosaic,2018,2018
+drama,7.6,18+ (TV-MA),200,https://reelgood.com/show/alice-2009-2008,45,2,Alice,2010,2008
+"comedy,crime,romance",5.7,14+ (TV-14),200,https://reelgood.com/show/grace-2018,45,1,Grace,Present,2018
+"drama,history,biography",7.2,14+ (TV-14),200,https://reelgood.com/show/santos-dumont-2019,45,1,Santos Dumont,2019,2019
+"animation,comedy,family,children",7.3,All (TV-G),200,https://reelgood.com/show/peanuts-2016,46,1,Peanuts,2016,2016
+,6.6,18+ (TV-MA),200,https://reelgood.com/show/the-shop-2018,47,3,The Shop: Uninterrupted,Present,2018
+"comedy,stand-up & talk",8.2,18+ (TV-MA),200,https://reelgood.com/show/one-night-stand-1989,47,5,One Night Stand,2005,1989
+documentary,7.3,14+ (TV-14),200,https://reelgood.com/show/el-pionero-2019,47,1,El Pionero,Present,2019
+"animation,action-and-adventure,comedy,family,fantasy,mystery,children",6.2,All (TV-G),200,https://reelgood.com/show/victor-and-valentino-2019,47,2,Victor and Valentino,Present,2019
+"comedy,documentary,family",4.8,18+ (TV-MA),200,https://reelgood.com/show/camping-2018,47,1,Camping,Present,2018
+"animation,children,family,fantasy",6.3,All (TV-G),200,https://reelgood.com/show/pinky-dinky-doo-2005,47,2,Pinky Dinky Doo,Present,2006
+"animation,comedy,family,children",6.2,All (TV-G),200,https://reelgood.com/show/josie-and-the-pussycats-1970,48,1,Josie and the Pussycats,1971,1970
+drama,8.2,18+ (TV-MA),200,https://reelgood.com/show/psi-2014,48,4,Psi,Present,2014
+,7.6,14+ (TV-14),200,https://reelgood.com/show/breakthrough-2015,48,3,Breakthrough,Present,2015
+"drama,comedy,romance,food",7.8,18+ (TV-MA),200,https://reelgood.com/show/foodie-love-2019,49,1,Foodie Love,Present,2019
+"animation,comedy,action-and-adventure,family,children",5.9,7+ (TV-PG),200,https://reelgood.com/show/wabbit-2015,49,9,New Looney Tunes,Present,2015
+"action-and-adventure,comedy,animation,science-fiction,fantasy",4.2,7+ (TV-PG),200,https://reelgood.com/show/uncle-grandpa-2013,49,5,Uncle Grandpa,2017,2013
+"action-and-adventure,drama,crime,horror,mystery,thriller",7.9,18+ (TV-MA),200,https://reelgood.com/show/epitafios-2004,50,2,Epitaphs,2009,2004
+comedy,5.6,18+ (TV-MA),200,https://reelgood.com/show/funny-or-die-presents-2010,51,2,Funny or Die Presents,2011,2010
+"game-show,comedy,family",5.6,7+ (TV-PG),200,https://reelgood.com/show/ellens-game-of-games-2017,51,3,Ellen's Game of Games,Present,2017
+"animation,game show",8.3,7+ (TV-PG),200,https://reelgood.com/show/crashbox-1999,51,2,Crashbox,2000,1999
+documentary,7.7,7+ (TV-PG),200,https://reelgood.com/show/this-is-life-with-lisa-ling-2014,52,6,This Is Life with Lisa Ling,Present,2014
+documentary,6.6,14+ (TV-14),200,https://reelgood.com/show/united-shades-of-america-2016,52,4,United Shades of America,Present,2016
+drama,7.8,14+ (TV-14),200,https://reelgood.com/show/magnifica-70-2015,52,3,Magnifica 70,Present,2015
+"animation,anime,action-and-adventure,comedy,fantasy,mystery,romance,science-fiction,drama,horror,thriller",6.7,14+ (TV-14),200,https://reelgood.com/show/inspectre-2020,52,1,In/Spectre,2020,2020
+sport,7.2,7+ (TV-PG),200,https://reelgood.com/show/real-sports-with-bryant-gumbel-1995,52,11,Real Sports with Bryant Gumbel,Present,1995
+"comedy,romance",3.6,7+ (TV-PG),200,https://reelgood.com/show/coupling-2000,52,4,Coupling,2004,2000
+"action-and-adventure,thriller,drama,crime",7.4,14+ (TV-14),200,https://reelgood.com/show/hackerville-2018,53,1,Hackerville,2018,2018
+"animation,comedy,family,fantasy,science-fiction",9,7+ (TV-PG),200,https://reelgood.com/show/adventure-time-distant-lands-2020,53,1,Adventure Time: Distant Lands,Present,2020
+"documentary,reality,sport",7.3,18+ (TV-MA),200,https://reelgood.com/show/on-freddie-roach-2012,35,1,On Freddie Roach,2012,2012
+"documentary,reality,sport",7.6,7+ (TV-PG),200,https://reelgood.com/show/247-college-football-2019,36,1,24/7 College Football,Present,2019
+comedy,6.8,18+ (TV-MA),200,https://reelgood.com/show/all-def-comedy-2017,36,1,All Def Comedy,Present,2017
+"animation,family",7.1,All (TV-G),200,https://reelgood.com/show/a-little-curious-1998,36,4,A Little Curious,2000,1998
+comedy,7.3,18+ (TV-MA),200,https://reelgood.com/show/down-and-dirty-with-jim-norton-2008,38,1,Down and Dirty with Jim Norton,2008,2008
+"documentary,action-and-adventure,family",8.2,All (TV-G),200,https://reelgood.com/show/ocean-mysteries-with-jeff-corwin-2011,38,5,Ocean Mysteries with Jeff Corwin,2016,2011
+documentary,8.1,7+ (TV-PG),200,https://reelgood.com/show/the-alzheimers-project-2009,39,1,The Alzheimer's Project,2009,2009
+"drama,crime,mystery,romance",6,18+ (TV-MA),200,https://reelgood.com/show/the-secret-life-of-couples-2017,41,2,The Secret Life of Couples,Present,2017
+"animation,children,family",8.6,All (TV-G),200,https://reelgood.com/show/classical-baby-2005,42,1,Classical Baby,2017,2005
+"reality,documentary",8.6,All (TV-G),200,https://reelgood.com/show/kindergarten-2001,42,2,Kindergarten,2001,2001
+"reality,documentary",6.3,14+ (TV-14),200,https://reelgood.com/show/hack-my-life-2015,42,6,Hack My Life,Present,2015
+comedy,8.1,14+ (TV-14),200,https://reelgood.com/show/the-chris-gethard-show-2011,43,6,The Chris Gethard Show,Present,2011
+"comedy,documentary",7.9,7+ (TV-PG),200,https://reelgood.com/show/hbo-comedy-half-hour-1995,43,5,HBO Comedy Half-Hour,1998,1994
+"action-and-adventure,science-fiction,animation,comedy,family,fantasy",4.9,7+ (TV-PG),200,https://reelgood.com/show/mighty-magiswords-2015,43,4,Mighty Magiswords,Present,2015
+"animation,action-and-adventure,comedy,family,fantasy,science-fiction,children",3.6,7+ (TV-PG),200,https://reelgood.com/show/the-powerpuff-girls-2016,44,4,The Powerpuff Girls,Present,2016
+"animation,action-and-adventure,family,fantasy,children",6.7,All (TV-G),200,https://reelgood.com/show/esme-roy-2018,44,2,Esme & Roy,Present,2018
+"animation,children,action-and-adventure,family,fantasy,horror,mystery,thriller",6.4,All (TV-G),200,https://reelgood.com/show/happily-ever-after-fairy-tales-for-every-child-1995,44,3,Happily Ever After: Fairy Tales for Every Child,2000,1995
