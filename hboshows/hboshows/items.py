@@ -11,6 +11,8 @@ import scrapy
 class HboshowsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+
+    movie_or_tv = scrapy.Field()
     title = scrapy.Field()
     imdb_score = scrapy.Field()
     rg_score = scrapy.Field()
@@ -21,3 +23,4 @@ class HboshowsItem(scrapy.Item):
     year_end = scrapy.Field()
     resp_url = scrapy.Field()
     resp_stat = scrapy.Field()
+    website = scrapy.Field()

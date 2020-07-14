@@ -5,45 +5,68 @@ import re
 class HboshowsSpider(Spider):
 	name = 'hboshows_spider'
 	allowed_urls = ['https://reelgood.com']
-	start_urls = ['https://reelgood.com/tv/source/hbo_max']
+	start_urls = ['https://reelgood.com/source/hbo_max']
 
 	def parse(self, response):
-		result_urls = [f'https://reelgood.com/tv/source/hbo_max?offset={i}' for i in range(0,400,50)]
+		result_urls = [f'https://reelgood.com/source/hbo_max?offset={i}' for i in range(0,2150,50)]
 
 		for url in result_urls:
 			yield Request(url=url, callback=self.parse_results_page)
 
 	def parse_results_page(self, response):
-		tvshow_urls = response.xpath('//td[@class="css-1u7zfla e126mwsw1"]/a/@href').extract()
-		tvshow_urls = ['https://www.reelgood.com' + url for url in tvshow_urls]
+		shows_urls = response.xpath('//td[@class="css-1u7zfla e126mwsw1"]/a/@href').extract()
+		shows_urls = ['https://www.reelgood.com' + url for url in shows_urls]
 
-		for url in tvshow_urls:
-			yield Request(url=url, callback=self.parse_tvshow_page)
+		for url in shows_urls:
+			yield Request(url=url, callback=self.parse_shows_page)
 
-	def parse_tvshow_page(self, response):
+	def parse_shows_page(self, response):
+		movie_or_tv = response.url.split('/')[-2]
 		title = response.xpath('//h1[@itemprop="name"]/text()').extract_first()
 		imdb_score = response.xpath('//span[@class="css-xmin1q ey4ir3j3"]/text()').extract_first()
 		rg_score = response.xpath('//span[@class="css-xmin1q ey4ir3j8"]/text()').extract_first()
-		rated = response.xpath('//span[@title="Maturity rating"]/text()').extract_first().strip('Rated: ')
-		seasons = re.findall('\d+', response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract()[1])[0]
-		year_start = re.findall('\d+',''.join(response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/a/text()').extract()))[0]
-		year_end = response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract_first().strip('- ')
+		rated = response.xpath('//span[@title="Maturity rating"]/text()').extract()
+		if rated != []:
+			rated = rated[0].strip('Rated: ')
+		else:
+			rated = ""
 
-		genres = response.xpath('//div[@class="css-19fr2c5"]/a/text()').extract()
-		if genres == []:
+		seasons = re.findall('\d+', response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract()[1])
+		if seasons != []:
+			seasons = seasons[0]
+		else:
+			seasons = ""
+
+		year_start = re.findall('\d+',''.join(response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/a/text()').extract()))[0]
+
+		year_end = response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract_first().strip('- ')
+		if year_end == "Present":
+			year_end = 2020
+		elif re.findall('m', year_end) != []:
+			year_end = ""
+
+		genres = response.xpath('//div[@class="css-19fr2c5"]/a/@href').extract()
+		if (genres == []) | (re.findall('/genre', ''.join(genres)) == []) :
 			genres = response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/a/text()').extract()
 			genres = ','.join(genres).split(year_start)[0].strip(',').lower()
 		else:
-			genres = ''.join(response.xpath('//div[@class="css-19fr2c5"]/a/@href').extract())
-			if re.findall('/list', genres) == []:
-				genres = ''.join(genres).split('/source')[0].split('/tv/genre/')
-			elif re.findall('/source', genres) == []:
-				genres = ''.join(genres).split('/list')[0].split('/tv/genre/')
+			genres = ''.join(genres)
+			if re.findall('/movies/genre', genres) == []:
+				if re.findall('/source', genres) == []:
+					genres = ''.join(genres).split('/list')[0].split('/tv/genre/')
+				else:
+					genres = ''.join(genres).split('/source')[0].split('/tv/genre/')
 			else:
-				genres = ''.join(genres).split('/source')[0].split('/tv/genre/')
+				if re.findall('/source', genres) == []:
+					genres = ''.join(genres).split('/list')[0].split('/movies/genre/')
+				else:
+					genres = ''.join(genres).split('/source')[0].split('/movies/genre/')
 			genres = ','.join(genres[1:])
+			if re.findall('/country', genres) != []:
+				genres = genres.split('/country')[0]
 
 		item = HboshowsItem()
+		item['movie_or_tv'] = movie_or_tv
 		item['title'] = title
 		item['imdb_score'] = imdb_score
 		item['rg_score'] = rg_score
@@ -54,6 +77,7 @@ class HboshowsSpider(Spider):
 		item['genres'] = genres
 		item['resp_url'] = response.url
 		item['resp_stat'] = response.status
+		item['website'] = "HBO Max"
 		yield item
 
 
