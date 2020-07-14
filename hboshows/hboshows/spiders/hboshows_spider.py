@@ -31,11 +31,12 @@ class HboshowsSpider(Spider):
 		else:
 			rated = ""
 
-		seasons = re.findall('\d+', response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract()[1])
-		if seasons != []:
-			seasons = seasons[0]
-		else:
+		seasons = response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/text()').extract()
+		if re.findall('eason', ''.join(seasons)) == []:
 			seasons = ""
+		else:
+			seasons = re.findall('\d+', seasons[1])[0]
+			
 
 		year_start = re.findall('\d+',''.join(response.xpath('//span[@class="css-ee2w7g ey4ir3j1"]/a/text()').extract()))[0]
 
