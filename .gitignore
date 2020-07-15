@@ -1,5 +1,5 @@
 *.csv
 .DS_Store
 .Rhistory
-_pycache_
+__pycache__/
 
