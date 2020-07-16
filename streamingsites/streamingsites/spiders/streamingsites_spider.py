@@ -5,31 +5,30 @@ import re
 class StreamingsitesSpider(Spider):
 	name = 'streamingsites_spider'
 	allowed_domains = ['reelgood.com']
-	start_urls = ['https://reelgood.com/source/hbo_max', 'https://reelgood.com/source/netflix',\
-					'https://reelgood.com/source/hulu','https://reelgood.com/source/disney_plus',\
-					'https://reelgood.com/source/amazon']
+	start_urls = ['https://reelgood.com']
 
 	def parse(self, response):
+
 		hbo = [f'https://reelgood.com/source/hbo_max?offset={i}' for i in range(0,2150,50)]
 		netflix = [f'https://reelgood.com/source/netflix?offset={i}' for i in range(0,5900,50)]
 		hulu = [f'https://reelgood.com/source/hulu?offset={i}' for i in range(0,2700,50)]
 		disney = [f'https://reelgood.com/source/disney_plus?offset={i}' for i in range(0,850,50)]
 		amazon = [f'https://reelgood.com/source/amazon?offset={i}' for i in range(0,16100,50)]
 
-		result_urls = hbo[:3] + netflix[:3] + hulu[:3] + disney[:3] + amazon[:3]
-
+		result_urls = hbo + netflix + hulu + disney + amazon
+		
 		for url in result_urls:
-			yield Request(url=url, callback=self.parse_results_page)
+			yield Request(url=url, callback=self.parse_results_page, dont_filter = True)
 
 	def parse_results_page(self, response):
 		shows_urls = response.xpath('//td[@class="css-1u7zfla e126mwsw1"]/a/@href').extract()
-		shows_urls = ['https://www.reelgood.com' + url for url in shows_urls]
+		shows_urls = ['https://reelgood.com' + url for url in shows_urls]
 
 		web_name = response.url.split('/')[-1].split('?')[0]
 		meta = {'web_name': web_name}
 
-		for url in shows_urls[:10]:
-			yield Request(url=url, callback=self.parse_shows_page, meta = meta)
+		for url in shows_urls:
+			yield Request(url=url, callback=self.parse_shows_page, meta = meta, dont_filter = True)
 
 	def parse_shows_page(self, response):
 		movie_or_tv = response.url.split('/')[-2]
