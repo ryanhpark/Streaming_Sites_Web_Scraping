@@ -10,10 +10,10 @@ class StreamingsitesSpider(Spider):
 	def parse(self, response):
 
 		hbo = [f'https://reelgood.com/source/hbo_max?offset={i}' for i in range(0,2150,50)]
-		netflix = [f'https://reelgood.com/source/netflix?offset={i}' for i in range(0,5900,50)]
+		netflix = [f'https://reelgood.com/source/netflix?offset={i}' for i in range(0,5500,50)]
 		hulu = [f'https://reelgood.com/source/hulu?offset={i}' for i in range(0,2700,50)]
 		disney = [f'https://reelgood.com/source/disney_plus?offset={i}' for i in range(0,850,50)]
-		amazon = [f'https://reelgood.com/source/amazon?offset={i}' for i in range(0,16100,50)]
+		amazon = [f'https://reelgood.com/source/amazon?offset={i}' for i in range(0,16250,50)]
 
 		result_urls = hbo + netflix + hulu + disney + amazon
 		

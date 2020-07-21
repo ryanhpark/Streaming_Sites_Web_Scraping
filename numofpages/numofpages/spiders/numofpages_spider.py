@@ -1,6 +1,5 @@
 from numofpages.items import NumofpagesItem
 from scrapy import Spider, Request
-import re
 
 class NumofpagesSpider(Spider):
 	name = 'numofpages_spider'
